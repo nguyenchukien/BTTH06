@@ -1,5 +1,5 @@
-const today = new Date();
 function times() {
+  const today = new Date();
   var h = today.getHours();
   var m = today.getMinutes();
   var s = today.getSeconds();
