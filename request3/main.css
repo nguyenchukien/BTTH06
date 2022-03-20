@@ -1,0 +1,31 @@
+body {
+  font-size: 5rem;
+}
+.container {
+  margin: 10rem;
+  border: 2px solid;
+  height: 10rem;
+  display: flex;
+}
+.time {
+  height: 100%;
+  display: flex;
+  background-color: black;
+  align-items: center;
+  padding: 0 2rem;
+}
+.time img {
+  height: 3rem;
+  width: 3rem;
+}
+.haicham {
+  margin: 0 5px;
+}
+.content {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding-left: 5rem;
+  color: brown;
+  font-weight: 700;
+}
